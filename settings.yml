@@ -1,8 +1,0 @@
-New_topic_button_icon:
-  default: "plus"
-  description:
-    en: Choose an icon for the button. You can use any FontAwesome 4.7 icon name like "music" or "star" without quote marks. 
-New_topic_button_text:
-  default: "Internal Question"
-  description:
-    en: Enter the text you want the button to use. You can also leave this empty if you want to only use an icon.
