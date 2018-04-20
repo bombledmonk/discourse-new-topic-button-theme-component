@@ -16,11 +16,6 @@
   }
 }
 
-@if $Hide_default_button == "true" {
-  button#create-topic {
-    display: none;
-  }
-}
 
 #new-create-topic-custom{
   margin-left:10px;
